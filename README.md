@@ -1,7 +1,7 @@
 Monocchino Arduino Theme
 ================
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/JanoVel/Monocchino/master/screenshot.png)
 
 A dark Arduino theme inspired by both the Monokai theme (and its variants) and the Arduino/Genuino brand colors.
 
